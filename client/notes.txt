@@ -1,0 +1,4 @@
+1.below carousel we have to add deals of the day 
+we could add them directly in frontend , but we have to make so much computations to *fetch data*
+but we will add them from database , it will be better to fetch the data
+2.to run server using npm start ,include start script as node index.js in package.json 
